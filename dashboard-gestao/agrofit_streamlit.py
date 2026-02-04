@@ -128,20 +128,14 @@ def render_summary(produtos: pd.DataFrame):
     col2.metric("Titulares", produtos["titular_registro"].nunique())
     col3.metric("Classes", produtos["classe_categoria_agronomica"].nunique())
 
-    st.caption("Listas únicas")
-    st.write(
-        {
-            "classes_categoria_agronomica": sorted(
-                {c for row in produtos["classe_categoria_agronomica"].dropna() for c in str(row).split(", ") if c}
-            ),
-            "modos_acao": sorted(
-                {c for row in produtos["modo_acao"].dropna() for c in str(row).split(", ") if c}
-            ),
-            "ingredientes_ativos": sorted(
-                {c for row in produtos["ingrediente_ativo"].dropna() for c in str(row).split(", ") if c}
-            ),
-        }
-    )
+    with st.expander("Ver detalhes de classes, modos de ação e ingredientes"):
+        classes = sorted({c for row in produtos["classe_categoria_agronomica"].dropna() for c in str(row).split(", ") if c})
+        modos = sorted({c for row in produtos["modo_acao"].dropna() for c in str(row).split(", ") if c})
+        ingredientes = sorted({c for row in produtos["ingrediente_ativo"].dropna() for c in str(row).split(", ") if c})
+        
+        st.write(f"**Classes agronômicas ({len(classes)}):** {', '.join(classes)}")
+        st.write(f"**Modos de ação ({len(modos)}):** {', '.join(modos)}")
+        st.write(f"**Ingredientes ativos ({len(ingredientes)}):** {', '.join(ingredientes)}")
 
 
 def main():
@@ -153,7 +147,6 @@ def main():
         st.image(str(logo_path), width=200)
     
     st.title("Agrofit | Consulta por cultura")
-    st.write("Selecione a cultura para rastrear pragas e produtos formulados indicados.")
 
     data_dir = _get_data_dir()
     data = load_data(data_dir)
