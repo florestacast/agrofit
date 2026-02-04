@@ -1,0 +1,58 @@
+#Floresta Cast LTDA
+
+# Caminho do sistema:
+# 1 D:\Meu Drive\Trabalho\Floresta_cast\ADM\P&D&I\Sistema # Pasta onde se encontra o sistema principal: main.py
+
+# Caminho dos dados
+# 2 D:\Meu Drive\Trabalho\Bracell\Relatorios\Boletins\CC # CC = Consulta Completa
+# 3 D:\Meu Drive\Trabalho\Bracell\Relatorios\Boletins\CC\Atual\OS_aberta # Subdiretório OS Aberta
+# 4 D:\Meu Drive\Trabalho\Bracell\Relatorios\Boletins\CC\Atual\OS_fechada # Subdiretório OS Fechada
+# Carrega dados:
+# CC*.xlsx
+
+# Caminho dados remendações
+# 5 D:\Meu Drive\Trabalho\Bracell\Relatorios\P&D
+
+# Caminho plano anual de Silvicultura
+# D:\Meu Drive\Trabalho\Bracell\Relatorios\Planejamento
+
+# Caminho dados planejamento mensal
+# 6 D:\Meu Drive\Trabalho\Bracell\Relatorios\Planejamento # Dados são oriundos do Plano Anual de Silvicultura
+# PAS.xlsx
+# Cabeçalho: [REGIONAL	ZONA_CLIMATICA	Chave	PROJETO	TALHAO	AREA	MANEJO	MATERIAL_GENETICO	MES	ANO	STATUS	STAND	TEXTURA	DATA_FIM_CORTE	DATA_FIM_BALDEIO	MODULO	ESPACAMENTO_ATUAL	STATUS_SUBSOLAGEM	DATA_SUBSOLAGEM	ROTACAO	DESCRICAO_USO_TALHAO	MG_CICLO_ANTERIOR	PRECIPITACAO	TIPO_PROPRIEDADE	LOCALIDADE	ID_PROJETO	DATA_PAS	QTD_MUDAS	DEMANDA_MUDAS	SOBREVIVENCIA	IMA6	IMA6_Expectativa	Atingimento_IMA6_Expectativa	Atingimento_IMA6_MaximoHistorico	CAPACIDADE_IRRIGACAO	JANELA_PLANTIO	ORIGEM_MANEJO	SEQUENCIA_PAS	IMA6_area	IMA6_Expectativa_area	IDADE_EXPEDICAO_MUDA	DATA_ESTAQUEAMENTO_MUDA	MES_ESTAQUEAMENTO	ANO_ESTAQUEAMENTO	area_tombada	flag_tombamento	CLASSIFICAÇÃO BA	TEMPO_OCIOSO_TERRA	RESIDUOS_FOMENTOS	ID_JANELA	Índice	DATA_PLANTIO	flag_pilha	Supervisor	EPS]
+
+# Saída das informações em tabela
+# 7 D:\Meu Drive\Trabalho\Floresta_cast\ADM\P&D&I\Dashboard # Diretório tipos de Publicações
+# manual.xlsx
+
+# Objetivo do sistema:
+#  Estou criando um sistema machine learning em python
+# que irá ler minhas pastas e dalí mapear os arquivos e trabahar com os
+# dados que serão utilizados para interagir matematicamente usando-se
+# de probabilidades, ou seja, modelos estatísticos que inferem respostas
+# a partir do mapeamento inicial, as mais indicadas visualizações gráficos
+# dentro da temática da produção florestal. Para além da produtividade
+# florestal, esse sistemas permite mapear as variáveis de entrada.
+# Desta forma, ao apresentar as estimativas para apoiar a tomada de
+# decisão, vamos construir um dashboard.
+
+# Ferramenta que interage com o usuário
+# Alguns ajustes serão necessários realizar quando ouver a necessidade
+# de trabalhar com valores que representam, como exemplo: fatores de conversão.
+
+# Nomeando variáveis
+# Informações de entrada
+# Dados do Boletim - Estrutura das colunas esperadas no arquivo de dados
+# Cabeçalho CC: "Id", "Núm. Boletim", "Fase Prescrição", "Data Operação", "Id OS", "Ordem de Serviço",
+    "Usuário Responsável", "Calendário Competência", "Fornecedor", "Contrato", "Tipo Aprovação", "Ocorrência",
+    "Efetuar pagamento", "Baixar insumo", "Quant. Nível 2", "Nota Nível 2", "Tipo Cálcul Custo", "Custo Boletim", "Proc. Pagamento", "Usuário", "Id Região", "Região", "Id Projeto", "Projeto", "Nome Projeto", "Talhão",
+    "Município", "Desc. Operação", "Cód.SAP", "Custo Unitário Operação", "Custo Total Operação", "Escala Rendimento", "Valor Produção", "Abrev. Unid. Med.", "% Realização", "Encarregado", "Tipo Recurso", "Nome Recurso", "Material Genético", "Espaçamento", "Quantidade", "Qtd. Descarte", "Motivo Descarte", "Unidade Medida",
+    "Classe de Parada", "Parada", "Custo Unitário Recurso", "Custo Recurso", "Escala de Rendimento", "Projeto Investimento", "Tarefa Projeto Investimento", "Documento ERP", "Status Integração", "Unidade", "Registro", "Manejo", "Obs. boletim", "Advertências", "Grupo Ásia", "Percentual de provisionamento", "Valor Provisionamento", "Custo Operação com Provisionamento", "Custo Operação + Material com Provisionamento".
+# Observação: Esta lista define a estrutura esperada dos dados no arquivo CC*.xlsx, facilitando a manipulação e análise dos dados posteriormente no sistema.
+
+# Variáveis de saída (estimativas)
+
+# Funções
+
+# Configurações de página
+# 
