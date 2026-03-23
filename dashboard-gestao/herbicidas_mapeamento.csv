@@ -1,0 +1,30 @@
+numero_registro,marca_comercial,ingrediente_ativo,classe_categoria,tipo_emergencia,confianca,total_culturas,total_pragas,tecnica_aplicacao
+9520,['DK MAX'],['Atrazina (triazina) (900 g/kg)'],['Herbicida'],pre-emergente,0.80,64,5,"['Terrestre', 'Aérea']"
+12620,"['DK Plus', 'Canforce']",['Ametrina (triazina) (800 g/kg)'],['Herbicida'],pre-emergente,0.80,61,5,"['Terrestre', 'Aérea']"
+2108604,['DMA 806 BR'],"['2,4-D-dimetilamina (ácido ariloxialcanóico) (806 g/L)']",['Herbicida'],pos-emergente,0.80,55,5,['Terrestre']
+36821,['DORAI'],['Dibrometo de diquate (bipiridílio) (373.5 g/L)'],['Herbicida'],pos-emergente,0.80,22,5,"['Terrestre', 'Aérea']"
+322,['DORAI MAX'],"['amicarbazona (triazolinona) (50 g/L)', 'Dibrometo de diquate (bipiridílio) (373.5 g/L)']",['Herbicida'],pos-emergente,0.80,1,1,"['Terrestre', 'Aérea']"
+29417,['Daga'],['haloxifope-P-metílico (ácido ariloxifenoxipropiônico) (124.7 g/L)'],['Herbicida'],pos-emergente,0.80,18,5,[]
+13611,['Danado'],['picloram (ácido piridinocarboxílico) (388 g/L)'],['Herbicida'],pos-emergente,0.80,10,5,['Terrestre']
+1219,['Decisive'],['Glifosato-Sal de Di-amônio (glicina substituída) (577 g/L)'],['Herbicida'],pos-emergente,0.80,0,0,"['Terrestre', 'Aérea']"
+115,"['Decorum', 'Aminespray', 'Cadma', 'Hedonal', 'Herbaking']","['2,4-D-dimetilamina (ácido ariloxialcanóico) (806 g/L)']",['Herbicida'],pos-emergente,0.80,138,5,"['Terrestre', 'Aérea']"
+14223,['Dedalo Elite'],"['2,4-D (ácido ariloxialcanóico) (300 g/L)']",['Herbicida'],pos-emergente,0.80,14,5,['Terrestre']
+13523,['Deflexo'],['S-metolacloro (cloroacetanilida) (960 g/L)'],['Herbicida'],desconhecido,0.00,0,0,"['Terrestre', 'Aérea']"
+8210,['DemolidorBR'],"['diurom (uréia) (488 g/kg)', 'hexazinona (triazinona) (142 g/kg)']",['Herbicida'],desconhecido,0.00,10,5,"['Terrestre', 'Aérea']"
+478507,['Dessecan'],['MSMA (organoarsênico) (480 g/L)'],['Herbicida'],desconhecido,0.00,69,5,['Terrestre']
+3515,['Dessicash'],['Dibrometo de diquate (bipiridílio) (200 g/L)'],['Herbicida'],pos-emergente,0.80,1,1,"['Terrestre', 'Aérea']"
+25216,['Dessicash 200 SL'],['Dibrometo de diquate (bipiridílio) (200 g/L)'],['Herbicida'],pos-emergente,0.80,51,5,"['Terrestre', 'Aérea']"
+36018,['Dexa WG'],"['diurom (uréia) (468 g/kg)', 'hexazinona (triazinona) (132 g/kg)']",['Herbicida'],desconhecido,0.00,16,5,"['Terrestre', 'Aérea']"
+5009,['Dez'],"['2,4-D (ácido ariloxialcanóico) (806 g/L)']",['Herbicida'],pos-emergente,0.80,19,5,['Terrestre']
+25419,['Dez Gold'],"['2,4-D sal sódico (ácido ariloxialcanóico) (880 g/kg)']",['Herbicida'],pos-emergente,0.80,15,5,['Terrestre']
+33322,['Dicamax LV'],['Dicamba (Ácido Benzóico) (754 g/L)'],['Herbicida'],pos-emergente,0.80,5,5,['Terrestre']
+34625,['Dicamba 480 SL Yonon'],['Dicamba (Ácido Benzóico) (480 g/L)'],['Herbicida'],pos-emergente,0.80,0,0,['Terrestre']
+30724,['Dicamba 700 WG Perterra'],['Dicamba (Ácido Benzóico) (770 g/kg)'],['Herbicida'],pos-emergente,0.80,9,5,['Terrestre']
+46325,['Dicamba Nortox'],['Dicamba (Ácido Benzóico) (480 g/L)'],['Herbicida'],pos-emergente,0.80,39,5,['Terrestre']
+26521,['Dicare'],['Dicamba (Ácido Benzóico) (770 g/kg)'],['Herbicida'],pos-emergente,0.80,15,5,"['Terrestre', 'Aérea']"
+23923,"['Dicavel', 'Ditma', 'Dasaje']",['Dicamba (Ácido Benzóico) (792 g/kg)'],['Herbicida'],pos-emergente,0.80,9,5,['Terrestre']
+12324,['Dicotil'],"['2,4-D (ácido ariloxialcanóico) (806 g/L)']",['Herbicida'],pos-emergente,0.80,0,0,['Terrestre']
+11023,['Diha WG'],"['diurom (uréia) (468 g/kg)', 'hexazinona (triazinona) (132 g/kg)']",['Herbicida'],desconhecido,0.00,16,5,"['Terrestre', 'Aérea']"
+10601,"['Dinamic', 'Dinamic 70 WDG', 'Xtron 700 WG Herbicide', 'Amitron 700 WG Herbicide', 'Dinamic 700 WG', 'Orion']",['amicarbazona (triazolinona) (700 g/kg)'],['Herbicida'],desconhecido,0.00,0,0,['Terrestre']
+812,['Diox'],['diurom (uréia) (500 g/L)'],['Herbicida'],desconhecido,0.00,54,5,"['Terrestre', 'Aérea']"
+

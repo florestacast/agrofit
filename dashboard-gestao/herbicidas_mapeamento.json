@@ -1,0 +1,564 @@
+{
+  "metadata": {
+    "total_herbicidas": 28,
+    "data": "2026-03-23T20:23:30.923134",
+    "fonte": "Agrofit Embrapa"
+  },
+  "herbicidas": [
+    {
+      "numero_registro": 9520,
+      "marca_comercial": "['DK MAX']",
+      "ingrediente_ativo": "['Atrazina (triazina) (900 g/kg)']",
+      "classe_categoria": "['Herbicida']",
+      "tipo_emergencia": "pre-emergente",
+      "confianca": 0.8,
+      "formulacao": "WG - Grânulos Dispersíveis em Água",
+      "tecnica_aplicacao": "['Terrestre', 'Aérea']",
+      "total_culturas": 64,
+      "total_pragas": 5,
+      "culturas_amostra": [
+        "Milho",
+        "Cana-de-açúcar",
+        "Sorgo"
+      ],
+      "pragas_amostra": [
+        "Mastruço",
+        "Balão",
+        "Catirina"
+      ]
+    },
+    {
+      "numero_registro": 12620,
+      "marca_comercial": "['DK Plus', 'Canforce']",
+      "ingrediente_ativo": "['Ametrina (triazina) (800 g/kg)']",
+      "classe_categoria": "['Herbicida']",
+      "tipo_emergencia": "pre-emergente",
+      "confianca": 0.8,
+      "formulacao": "WG - Grânulos Dispersíveis em Água",
+      "tecnica_aplicacao": "['Terrestre', 'Aérea']",
+      "total_culturas": 61,
+      "total_pragas": 5,
+      "culturas_amostra": [
+        "Café",
+        "Cana-de-açúcar",
+        "Mandioca"
+      ],
+      "pragas_amostra": [
+        "Campainha",
+        "Capim-marmelada",
+        "Capim-colchão"
+      ]
+    },
+    {
+      "numero_registro": 2108604,
+      "marca_comercial": "['DMA 806 BR']",
+      "ingrediente_ativo": "['2,4-D-dimetilamina (ácido ariloxialcanóico) (806 g/L)']",
+      "classe_categoria": "['Herbicida']",
+      "tipo_emergencia": "pos-emergente",
+      "confianca": 0.8,
+      "formulacao": "SL - Concentrado Solúvel",
+      "tecnica_aplicacao": "['Terrestre']",
+      "total_culturas": 55,
+      "total_pragas": 5,
+      "culturas_amostra": [
+        "Arroz irrigado",
+        "Milho",
+        "Trigo"
+      ],
+      "pragas_amostra": [
+        "Angiquinho",
+        "Amendoim-bravo",
+        "Apaga-fogo"
+      ]
+    },
+    {
+      "numero_registro": 36821,
+      "marca_comercial": "['DORAI']",
+      "ingrediente_ativo": "['Dibrometo de diquate (bipiridílio) (373.5 g/L)']",
+      "classe_categoria": "['Herbicida']",
+      "tipo_emergencia": "pos-emergente",
+      "confianca": 0.8,
+      "formulacao": "SL - Concentrado Solúvel",
+      "tecnica_aplicacao": "['Terrestre', 'Aérea']",
+      "total_culturas": 22,
+      "total_pragas": 5,
+      "culturas_amostra": [
+        "Café",
+        "Batata",
+        "Soja"
+      ],
+      "pragas_amostra": [
+        "Amendoim-bravo",
+        "Fura-capa",
+        "Campainha"
+      ]
+    },
+    {
+      "numero_registro": 322,
+      "marca_comercial": "['DORAI MAX']",
+      "ingrediente_ativo": "['amicarbazona (triazolinona) (50 g/L)', 'Dibrometo de diquate (bipiridílio) (373.5 g/L)']",
+      "classe_categoria": "['Herbicida']",
+      "tipo_emergencia": "pos-emergente",
+      "confianca": 0.8,
+      "formulacao": "SC - Suspensão Concentrada",
+      "tecnica_aplicacao": "['Terrestre', 'Aérea']",
+      "total_culturas": 1,
+      "total_pragas": 1,
+      "culturas_amostra": [
+        "Soja"
+      ],
+      "pragas_amostra": [
+        "Ausente"
+      ]
+    },
+    {
+      "numero_registro": 29417,
+      "marca_comercial": "['Daga']",
+      "ingrediente_ativo": "['haloxifope-P-metílico (ácido ariloxifenoxipropiônico) (124.7 g/L)']",
+      "classe_categoria": "['Herbicida']",
+      "tipo_emergencia": "pos-emergente",
+      "confianca": 0.8,
+      "formulacao": "EC - Concentrado Emulsionável",
+      "tecnica_aplicacao": "[]",
+      "total_culturas": 18,
+      "total_pragas": 5,
+      "culturas_amostra": [
+        "Algodão",
+        "Feijão",
+        "Soja"
+      ],
+      "pragas_amostra": [
+        "Milho",
+        "Capim-da-cidade",
+        "Braquiária"
+      ]
+    },
+    {
+      "numero_registro": 13611,
+      "marca_comercial": "['Danado']",
+      "ingrediente_ativo": "['picloram (ácido piridinocarboxílico) (388 g/L)']",
+      "classe_categoria": "['Herbicida']",
+      "tipo_emergencia": "pos-emergente",
+      "confianca": 0.8,
+      "formulacao": "SL - Concentrado Solúvel",
+      "tecnica_aplicacao": "['Terrestre']",
+      "total_culturas": 10,
+      "total_pragas": 5,
+      "culturas_amostra": [
+        "Pastagens"
+      ],
+      "pragas_amostra": [
+        "Leiteiro",
+        "Camboatá",
+        "Espinho-de-agulha"
+      ]
+    },
+    {
+      "numero_registro": 1219,
+      "marca_comercial": "['Decisive']",
+      "ingrediente_ativo": "['Glifosato-Sal de Di-amônio (glicina substituída) (577 g/L)']",
+      "classe_categoria": "['Herbicida']",
+      "tipo_emergencia": "pos-emergente",
+      "confianca": 0.8,
+      "formulacao": "SL - Concentrado Solúvel",
+      "tecnica_aplicacao": "['Terrestre', 'Aérea']",
+      "total_culturas": 0,
+      "total_pragas": 0,
+      "culturas_amostra": [],
+      "pragas_amostra": []
+    },
+    {
+      "numero_registro": 115,
+      "marca_comercial": "['Decorum', 'Aminespray', 'Cadma', 'Hedonal', 'Herbaking']",
+      "ingrediente_ativo": "['2,4-D-dimetilamina (ácido ariloxialcanóico) (806 g/L)']",
+      "classe_categoria": "['Herbicida']",
+      "tipo_emergencia": "pos-emergente",
+      "confianca": 0.8,
+      "formulacao": "SL - Concentrado Solúvel",
+      "tecnica_aplicacao": "['Terrestre', 'Aérea']",
+      "total_culturas": 138,
+      "total_pragas": 5,
+      "culturas_amostra": [
+        "Arroz irrigado",
+        "Milho",
+        "Café"
+      ],
+      "pragas_amostra": [
+        "Mastruço",
+        "Campainha",
+        "Guanxuma"
+      ]
+    },
+    {
+      "numero_registro": 14223,
+      "marca_comercial": "['Dedalo Elite']",
+      "ingrediente_ativo": "['2,4-D (ácido ariloxialcanóico) (300 g/L)']",
+      "classe_categoria": "['Herbicida']",
+      "tipo_emergencia": "pos-emergente",
+      "confianca": 0.8,
+      "formulacao": "ME - Micro Emulsão",
+      "tecnica_aplicacao": "['Terrestre']",
+      "total_culturas": 14,
+      "total_pragas": 5,
+      "culturas_amostra": [
+        "Soja"
+      ],
+      "pragas_amostra": [
+        "Amendoim-bravo",
+        "Fura-capa",
+        "Campainha"
+      ]
+    },
+    {
+      "numero_registro": 13523,
+      "marca_comercial": "['Deflexo']",
+      "ingrediente_ativo": "['S-metolacloro (cloroacetanilida) (960 g/L)']",
+      "classe_categoria": "['Herbicida']",
+      "tipo_emergencia": "desconhecido",
+      "confianca": 0.0,
+      "formulacao": "EC - Concentrado Emulsionável",
+      "tecnica_aplicacao": "['Terrestre', 'Aérea']",
+      "total_culturas": 0,
+      "total_pragas": 0,
+      "culturas_amostra": [],
+      "pragas_amostra": []
+    },
+    {
+      "numero_registro": 8210,
+      "marca_comercial": "['DemolidorBR']",
+      "ingrediente_ativo": "['diurom (uréia) (488 g/kg)', 'hexazinona (triazinona) (142 g/kg)']",
+      "classe_categoria": "['Herbicida']",
+      "tipo_emergencia": "desconhecido",
+      "confianca": 0.0,
+      "formulacao": "WP - Pó Molhável",
+      "tecnica_aplicacao": "['Terrestre', 'Aérea']",
+      "total_culturas": 10,
+      "total_pragas": 5,
+      "culturas_amostra": [
+        "Cana-de-açúcar"
+      ],
+      "pragas_amostra": [
+        "Capim-da-cidade",
+        "Beldroega",
+        "Carrapicho-de-carneiro"
+      ]
+    },
+    {
+      "numero_registro": 478507,
+      "marca_comercial": "['Dessecan']",
+      "ingrediente_ativo": "['MSMA (organoarsênico) (480 g/L)']",
+      "classe_categoria": "['Herbicida']",
+      "tipo_emergencia": "desconhecido",
+      "confianca": 0.0,
+      "formulacao": "SL - Concentrado Solúvel",
+      "tecnica_aplicacao": "['Terrestre']",
+      "total_culturas": 69,
+      "total_pragas": 5,
+      "culturas_amostra": [
+        "Algodão",
+        "Cana-de-açúcar",
+        "Café"
+      ],
+      "pragas_amostra": [
+        "Mastruço",
+        "Campainha",
+        "Capim-marmelada"
+      ]
+    },
+    {
+      "numero_registro": 3515,
+      "marca_comercial": "['Dessicash']",
+      "ingrediente_ativo": "['Dibrometo de diquate (bipiridílio) (200 g/L)']",
+      "classe_categoria": "['Herbicida']",
+      "tipo_emergencia": "pos-emergente",
+      "confianca": 0.8,
+      "formulacao": "SL - Concentrado Solúvel",
+      "tecnica_aplicacao": "['Terrestre', 'Aérea']",
+      "total_culturas": 1,
+      "total_pragas": 1,
+      "culturas_amostra": [
+        "Soja"
+      ],
+      "pragas_amostra": [
+        "Ausente"
+      ]
+    },
+    {
+      "numero_registro": 25216,
+      "marca_comercial": "['Dessicash 200 SL']",
+      "ingrediente_ativo": "['Dibrometo de diquate (bipiridílio) (200 g/L)']",
+      "classe_categoria": "['Herbicida']",
+      "tipo_emergencia": "pos-emergente",
+      "confianca": 0.8,
+      "formulacao": "SL - Concentrado Solúvel",
+      "tecnica_aplicacao": "['Terrestre', 'Aérea']",
+      "total_culturas": 51,
+      "total_pragas": 5,
+      "culturas_amostra": [
+        "Café",
+        "Milho",
+        "Soja"
+      ],
+      "pragas_amostra": [
+        "Milho",
+        "Amendoim-bravo",
+        "Fura-capa"
+      ]
+    },
+    {
+      "numero_registro": 36018,
+      "marca_comercial": "['Dexa WG']",
+      "ingrediente_ativo": "['diurom (uréia) (468 g/kg)', 'hexazinona (triazinona) (132 g/kg)']",
+      "classe_categoria": "['Herbicida']",
+      "tipo_emergencia": "desconhecido",
+      "confianca": 0.0,
+      "formulacao": "WG - Grânulos Dispersíveis em Água",
+      "tecnica_aplicacao": "['Terrestre', 'Aérea']",
+      "total_culturas": 16,
+      "total_pragas": 5,
+      "culturas_amostra": [
+        "Cana-de-açúcar"
+      ],
+      "pragas_amostra": [
+        "Amarra-amarra",
+        "Capim-da-cidade",
+        "Apaga-fogo"
+      ]
+    },
+    {
+      "numero_registro": 5009,
+      "marca_comercial": "['Dez']",
+      "ingrediente_ativo": "['2,4-D (ácido ariloxialcanóico) (806 g/L)']",
+      "classe_categoria": "['Herbicida']",
+      "tipo_emergencia": "pos-emergente",
+      "confianca": 0.8,
+      "formulacao": "SL - Concentrado Solúvel",
+      "tecnica_aplicacao": "['Terrestre']",
+      "total_culturas": 19,
+      "total_pragas": 5,
+      "culturas_amostra": [
+        "Café",
+        "Milho",
+        "Arroz"
+      ],
+      "pragas_amostra": [
+        "Amendoim-bravo",
+        "Apaga-fogo",
+        "Beldroega"
+      ]
+    },
+    {
+      "numero_registro": 25419,
+      "marca_comercial": "['Dez Gold']",
+      "ingrediente_ativo": "['2,4-D sal sódico (ácido ariloxialcanóico) (880 g/kg)']",
+      "classe_categoria": "['Herbicida']",
+      "tipo_emergencia": "pos-emergente",
+      "confianca": 0.8,
+      "formulacao": "SP - Pó Solúvel",
+      "tecnica_aplicacao": "['Terrestre']",
+      "total_culturas": 15,
+      "total_pragas": 5,
+      "culturas_amostra": [
+        "Café",
+        "Milho",
+        "Arroz"
+      ],
+      "pragas_amostra": [
+        "Amendoim-bravo",
+        "Fura-capa",
+        "Campainha"
+      ]
+    },
+    {
+      "numero_registro": 33322,
+      "marca_comercial": "['Dicamax LV']",
+      "ingrediente_ativo": "['Dicamba (Ácido Benzóico) (754 g/L)']",
+      "classe_categoria": "['Herbicida']",
+      "tipo_emergencia": "pos-emergente",
+      "confianca": 0.8,
+      "formulacao": "SL - Concentrado Solúvel",
+      "tecnica_aplicacao": "['Terrestre']",
+      "total_culturas": 5,
+      "total_pragas": 5,
+      "culturas_amostra": [
+        "Soja OGM"
+      ],
+      "pragas_amostra": [
+        "Beldroega",
+        "Fura-capa",
+        "Corda-de-viola"
+      ]
+    },
+    {
+      "numero_registro": 34625,
+      "marca_comercial": "['Dicamba 480 SL Yonon']",
+      "ingrediente_ativo": "['Dicamba (Ácido Benzóico) (480 g/L)']",
+      "classe_categoria": "['Herbicida']",
+      "tipo_emergencia": "pos-emergente",
+      "confianca": 0.8,
+      "formulacao": "SL - Concentrado Solúvel",
+      "tecnica_aplicacao": "['Terrestre']",
+      "total_culturas": 0,
+      "total_pragas": 0,
+      "culturas_amostra": [],
+      "pragas_amostra": []
+    },
+    {
+      "numero_registro": 30724,
+      "marca_comercial": "['Dicamba 700 WG Perterra']",
+      "ingrediente_ativo": "['Dicamba (Ácido Benzóico) (770 g/kg)']",
+      "classe_categoria": "['Herbicida']",
+      "tipo_emergencia": "pos-emergente",
+      "confianca": 0.8,
+      "formulacao": "WG - Grânulos Dispersíveis em Água",
+      "tecnica_aplicacao": "['Terrestre']",
+      "total_culturas": 9,
+      "total_pragas": 5,
+      "culturas_amostra": [
+        "Trigo",
+        "Milho",
+        "Cana-de-açúcar"
+      ],
+      "pragas_amostra": [
+        "Amendoim-bravo",
+        "Fura-capa",
+        "Corda-de-viola"
+      ]
+    },
+    {
+      "numero_registro": 46325,
+      "marca_comercial": "['Dicamba Nortox']",
+      "ingrediente_ativo": "['Dicamba (Ácido Benzóico) (480 g/L)']",
+      "classe_categoria": "['Herbicida']",
+      "tipo_emergencia": "pos-emergente",
+      "confianca": 0.8,
+      "formulacao": "SL - Concentrado Solúvel",
+      "tecnica_aplicacao": "['Terrestre']",
+      "total_culturas": 39,
+      "total_pragas": 5,
+      "culturas_amostra": [
+        "Algodão",
+        "Algodão OGM",
+        "Soja OGM"
+      ],
+      "pragas_amostra": [
+        "Campainha",
+        "Bredo-branco",
+        "Guanxuma"
+      ]
+    },
+    {
+      "numero_registro": 26521,
+      "marca_comercial": "['Dicare']",
+      "ingrediente_ativo": "['Dicamba (Ácido Benzóico) (770 g/kg)']",
+      "classe_categoria": "['Herbicida']",
+      "tipo_emergencia": "pos-emergente",
+      "confianca": 0.8,
+      "formulacao": "WG - Grânulos Dispersíveis em Água",
+      "tecnica_aplicacao": "['Terrestre', 'Aérea']",
+      "total_culturas": 15,
+      "total_pragas": 5,
+      "culturas_amostra": [
+        "Milho",
+        "Trigo",
+        "Cana-de-açúcar"
+      ],
+      "pragas_amostra": [
+        "Amendoim-bravo",
+        "Fura-capa",
+        "Corda-de-viola"
+      ]
+    },
+    {
+      "numero_registro": 23923,
+      "marca_comercial": "['Dicavel', 'Ditma', 'Dasaje']",
+      "ingrediente_ativo": "['Dicamba (Ácido Benzóico) (792 g/kg)']",
+      "classe_categoria": "['Herbicida']",
+      "tipo_emergencia": "pos-emergente",
+      "confianca": 0.8,
+      "formulacao": "SG - Granulado Solúvel",
+      "tecnica_aplicacao": "['Terrestre']",
+      "total_culturas": 9,
+      "total_pragas": 5,
+      "culturas_amostra": [
+        "Milho",
+        "Soja"
+      ],
+      "pragas_amostra": [
+        "Amendoim-bravo",
+        "Fura-capa",
+        "Campainha"
+      ]
+    },
+    {
+      "numero_registro": 12324,
+      "marca_comercial": "['Dicotil']",
+      "ingrediente_ativo": "['2,4-D (ácido ariloxialcanóico) (806 g/L)']",
+      "classe_categoria": "['Herbicida']",
+      "tipo_emergencia": "pos-emergente",
+      "confianca": 0.8,
+      "formulacao": "SL - Concentrado Solúvel",
+      "tecnica_aplicacao": "['Terrestre']",
+      "total_culturas": 0,
+      "total_pragas": 0,
+      "culturas_amostra": [],
+      "pragas_amostra": []
+    },
+    {
+      "numero_registro": 11023,
+      "marca_comercial": "['Diha WG']",
+      "ingrediente_ativo": "['diurom (uréia) (468 g/kg)', 'hexazinona (triazinona) (132 g/kg)']",
+      "classe_categoria": "['Herbicida']",
+      "tipo_emergencia": "desconhecido",
+      "confianca": 0.0,
+      "formulacao": "WG - Grânulos Dispersíveis em Água",
+      "tecnica_aplicacao": "['Terrestre', 'Aérea']",
+      "total_culturas": 16,
+      "total_pragas": 5,
+      "culturas_amostra": [
+        "Cana-de-açúcar"
+      ],
+      "pragas_amostra": [
+        "Amarra-amarra",
+        "Capim-da-cidade",
+        "Apaga-fogo"
+      ]
+    },
+    {
+      "numero_registro": 10601,
+      "marca_comercial": "['Dinamic', 'Dinamic 70 WDG', 'Xtron 700 WG Herbicide', 'Amitron 700 WG Herbicide', 'Dinamic 700 WG', 'Orion']",
+      "ingrediente_ativo": "['amicarbazona (triazolinona) (700 g/kg)']",
+      "classe_categoria": "['Herbicida']",
+      "tipo_emergencia": "desconhecido",
+      "confianca": 0.0,
+      "formulacao": "WG - Grânulos Dispersíveis em Água",
+      "tecnica_aplicacao": "['Terrestre']",
+      "total_culturas": 0,
+      "total_pragas": 0,
+      "culturas_amostra": [],
+      "pragas_amostra": []
+    },
+    {
+      "numero_registro": 812,
+      "marca_comercial": "['Diox']",
+      "ingrediente_ativo": "['diurom (uréia) (500 g/L)']",
+      "classe_categoria": "['Herbicida']",
+      "tipo_emergencia": "desconhecido",
+      "confianca": 0.0,
+      "formulacao": "SC - Suspensão Concentrada",
+      "tecnica_aplicacao": "['Terrestre', 'Aérea']",
+      "total_culturas": 54,
+      "total_pragas": 5,
+      "culturas_amostra": [
+        "Algodão",
+        "Cana-de-açúcar",
+        "Café"
+      ],
+      "pragas_amostra": [
+        "Capim-de-cheiro",
+        "Capim-da-cidade",
+        "Apaga-fogo"
+      ]
+    }
+  ]
+}
